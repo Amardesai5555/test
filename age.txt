@@ -1,2 +1,0 @@
-name - amar
-age-27
